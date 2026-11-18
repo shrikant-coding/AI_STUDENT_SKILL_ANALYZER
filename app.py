@@ -22,7 +22,10 @@ resources_df = pd.read_csv(RESOURCE_PATH)
 all_skills = sorted(career_df["skill"].unique())
 
 
-QUIZ_DB = BASE / "quiz_results.sqlite3"
+DATA_DIR = Path(os.environ.get("DATA_DIR", str(BASE)))
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+QUIZ_DB = DATA_DIR / "quiz_results.sqlite3"
 
 def init_quiz_db():
     with sqlite3.connect(QUIZ_DB) as con:
@@ -386,4 +389,10 @@ def download_report():
     return response
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    port = int(os.environ.get("PORT", 5000))
+
+    app.run(
+        host="0.0.0.0",
+        port=port,
+        debug=False
+    )

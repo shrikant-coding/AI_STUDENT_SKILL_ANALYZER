@@ -1,10 +1,17 @@
 """SQLite persistence for student accounts and career assessments."""
 import sqlite3
+import os
 from pathlib import Path
 from datetime import datetime
 from werkzeug.security import generate_password_hash, check_password_hash
 
-DB_PATH = Path(__file__).resolve().parent / "skill_analyzer.db"
+DATA_DIR = Path(
+    os.environ.get("DATA_DIR", str(Path(__file__).resolve().parent))
+)
+
+DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+DB_PATH = DATA_DIR / "skill_analyzer.db"
 
 
 def get_connection():
