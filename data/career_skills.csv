@@ -1,0 +1,49 @@
+career,skill,required_level,weight
+Data Scientist,Python,85,1.2
+Data Scientist,Statistics,90,1.2
+Data Scientist,Mathematics,80,1.0
+Data Scientist,SQL,80,1.0
+Data Scientist,Machine Learning,90,1.2
+Data Scientist,Data Visualization,75,0.8
+Data Scientist,Data Cleaning,85,1.0
+Data Scientist,Communication,70,0.7
+Web Developer,HTML,90,1.0
+Web Developer,CSS,90,1.0
+Web Developer,JavaScript,90,1.2
+Web Developer,React,80,1.0
+Web Developer,Backend Development,80,1.0
+Web Developer,SQL,70,0.8
+Web Developer,Git,75,0.7
+Web Developer,Problem Solving,80,0.8
+AI/ML Engineer,Python,90,1.2
+AI/ML Engineer,Mathematics,85,1.0
+AI/ML Engineer,Statistics,80,0.9
+AI/ML Engineer,Machine Learning,95,1.3
+AI/ML Engineer,Deep Learning,90,1.2
+AI/ML Engineer,Data Structures,80,0.9
+AI/ML Engineer,Model Deployment,75,0.8
+AI/ML Engineer,Git,70,0.6
+Software Developer,Python,75,0.8
+Software Developer,Java,85,1.0
+Software Developer,Data Structures,90,1.2
+Software Developer,Algorithms,90,1.2
+Software Developer,OOP,90,1.1
+Software Developer,SQL,70,0.7
+Software Developer,Git,80,0.8
+Software Developer,Problem Solving,90,1.1
+Data Analyst,SQL,90,1.2
+Data Analyst,Excel,85,1.0
+Data Analyst,Python,75,0.9
+Data Analyst,Statistics,80,1.0
+Data Analyst,Data Visualization,90,1.2
+Data Analyst,Power BI,85,1.0
+Data Analyst,Data Cleaning,85,1.0
+Data Analyst,Communication,75,0.7
+Cybersecurity Analyst,Networking,90,1.2
+Cybersecurity Analyst,Linux,85,1.0
+Cybersecurity Analyst,Cybersecurity Fundamentals,95,1.3
+Cybersecurity Analyst,Python,65,0.7
+Cybersecurity Analyst,SIEM,80,1.0
+Cybersecurity Analyst,Risk Assessment,80,0.9
+Cybersecurity Analyst,Incident Response,85,1.1
+Cybersecurity Analyst,Communication,70,0.6

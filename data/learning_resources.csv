@@ -1,0 +1,30 @@
+skill,title,url,level,description
+Python,Python for Everybody,https://www.py4e.com/,Beginner,Practice Python fundamentals and problem solving.
+Statistics,Khan Academy Statistics and Probability,https://www.khanacademy.org/math/statistics-probability,Beginner,"Study descriptive statistics, probability and distributions."
+Mathematics,Khan Academy Mathematics,https://www.khanacademy.org/math,Beginner,"Strengthen algebra, linear algebra and calculus foundations."
+SQL,SQLBolt,https://sqlbolt.com/,Beginner,Learn SQL queries through interactive lessons.
+Machine Learning,Google Machine Learning Crash Course,https://developers.google.com/machine-learning/crash-course,Intermediate,"Learn model training, evaluation and core ML concepts."
+Data Visualization,Tableau Data Visualization Resources,https://www.tableau.com/learn/articles/data-visualization,Beginner,Practice communicating insights through charts.
+Data Cleaning,Pandas Getting Started,https://pandas.pydata.org/docs/getting_started/intro_tutorials/,Intermediate,Learn data preparation and cleaning workflows.
+Communication,Toastmasters,https://www.toastmasters.org/,Beginner,Practice clear technical communication and presentations.
+HTML,MDN HTML Guide,https://developer.mozilla.org/en-US/docs/Learn/HTML,Beginner,Learn semantic page structure.
+CSS,MDN CSS Guide,https://developer.mozilla.org/en-US/docs/Learn/CSS,Beginner,"Learn layouts, styling and responsive design."
+JavaScript,JavaScript.info,https://javascript.info/,Beginner,Learn modern JavaScript fundamentals.
+React,React Learn,https://react.dev/learn,Intermediate,Build component-based user interfaces.
+Backend Development,MDN Server-side Website Programming,https://developer.mozilla.org/en-US/docs/Learn/Server-side,Intermediate,Learn server-side concepts and APIs.
+Git,Git Handbook,https://guides.github.com/introduction/git-handbook/,Beginner,Learn version control and collaboration.
+Problem Solving,HackerRank,https://www.hackerrank.com/domains/algorithms,Beginner,Build structured problem-solving skills.
+Java,Dev.java,https://dev.java/learn/,Beginner,Learn Java programming fundamentals.
+Data Structures,VisuAlgo,https://visualgo.net/en,Intermediate,Visualize common data structures and algorithms.
+Algorithms,MIT OpenCourseWare Algorithms,https://ocw.mit.edu/,Advanced,Study algorithm design and analysis.
+OOP,Refactoring Guru: Design Patterns,https://refactoring.guru/design-patterns,Intermediate,Understand object-oriented design principles.
+Excel,Microsoft Excel Help,https://support.microsoft.com/excel,Beginner,"Practice formulas, tables and analysis."
+Power BI,Microsoft Learn Power BI,https://learn.microsoft.com/en-us/training/powerplatform/power-bi,Intermediate,Learn data modeling and dashboard creation.
+Networking,Cisco Networking Basics,https://skillsforall.com/,Beginner,Study networking concepts and protocols.
+Linux,Linux Journey,https://linuxjourney.com/,Beginner,Learn Linux commands and administration.
+Cybersecurity Fundamentals,Cisco Cybersecurity Learning,https://skillsforall.com/,Beginner,Study security principles and defensive practices.
+SIEM,Splunk Training,https://www.splunk.com/en_us/training.html,Intermediate,Learn log analysis and SIEM workflows.
+Risk Assessment,NIST Cybersecurity Framework,https://www.nist.gov/cyberframework,Intermediate,Understand cybersecurity risk management.
+Incident Response,CISA Incident Response Resources,https://www.cisa.gov/,Intermediate,Learn incident handling and response planning.
+Deep Learning,TensorFlow Tutorials,https://www.tensorflow.org/tutorials,Intermediate,Explore neural networks and deep learning.
+Model Deployment,Streamlit Documentation,https://docs.streamlit.io/,Intermediate,Learn how to deploy interactive ML applications.
